@@ -1,7 +1,7 @@
 
 <h1>
 
-TerraGov Marine Corps 
+TerraGov Expeditionary Forces
 [![Badge Issues]][Issues]
 [![Badge Time]][Time]
 
