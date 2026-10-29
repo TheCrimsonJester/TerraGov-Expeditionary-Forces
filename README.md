@@ -19,6 +19,8 @@ TerraGov Expeditionary Forces
 
 This fork is based on the `July 2018` version of **[ColonialMarines]** .
 
+This fork is based on the `October 2026` version of **[TerraGovMarineCorps]** .
+
 <br>
 <br>
 
